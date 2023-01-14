@@ -4,7 +4,6 @@
   "description": "solution to FCC Backend Challenge",
   "main": "index.js",
   "scripts": {
-    
     "dev": "nodemon app.js",
     "start": "node app.js"
   },
