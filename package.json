@@ -4,7 +4,9 @@
   "description": "solution to FCC Backend Challenge",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    
+    "dev": "nodemon app.js",
+    "start": "node app.js"
   },
   "dependencies": {
     "express": "^4.12.4",
